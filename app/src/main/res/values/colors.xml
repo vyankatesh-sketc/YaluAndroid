@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Yalu Brand Colors -->
+    <color name="yalu_navy">#1D2363</color>
+    <color name="yalu_navy_dark">#12163E</color>
+    <color name="yalu_red">#F70B00</color>
+    <color name="yalu_red_dark">#C40900</color>
+    <color name="yalu_surface">#FFFFFF</color>
+    <color name="yalu_background">#F8F9FA</color>
+    <color name="yalu_text_primary">#191C1E</color>
+    <color name="yalu_text_secondary">#555B6E</color>
+    <color name="yalu_green">#138808</color>
+</resources>

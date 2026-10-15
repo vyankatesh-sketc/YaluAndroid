@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Yalu India</string>
+    <string name="tagline">India\'s Marketplace &amp; Classifieds Hub</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Actions -->
+    <string name="action_search">Search ads, brands, cities…</string>
+    <string name="action_sell">Post Ad</string>
+    <string name="action_login">Login</string>
+    <string name="action_register">Register</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_chat_whatsapp">WhatsApp</string>
+    <string name="action_call_seller">Call</string>
+    <string name="action_share">Share</string>
+</resources>
